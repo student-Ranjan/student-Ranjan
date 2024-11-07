@@ -37,6 +37,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=student-ranjan&" alt="student-ranjan" /></p>
 
-[![An image of @ranjan063's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ranjan063)](https://holopin.io/@ranjan063)(https://github.com/student-Ranjan/student-Ranjan/blob/main/postman.png)
+[![An image of @ranjan063's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ranjan063)](https://holopin.io/@ranjan063)
 
 ![badge](https://github.com/student-Ranjan/student-Ranjan/blob/main/postman.png)
