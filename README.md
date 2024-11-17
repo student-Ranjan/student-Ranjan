@@ -10,9 +10,9 @@
 
 - 👯 I’m looking to collaborate on [My Project](https://www.youtube.com/shorts/8CfdGsV_8pA)
 
-- 💬 Ask me about **My project**
+- 💬 Ask me about **my project**
 
-- 📫 How to reach me **ranjantiwari6393@gmail.com**
+- 📫 How to contact me **ranjantiwari6393@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1J-7n4lm3UWlExgD7HwUK6CR6jc4LtDiD/view?usp=sharing](https://drive.google.com/file/d/1J-7n4lm3UWlExgD7HwUK6CR6jc4LtDiD/view?usp=sharing)
 
