@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=student-ranjan&label=Profile%20views&color=0e75b6&style=flat" alt="student-ranjan" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data science**
 
 - 👯 I’m looking to collaborate on [My Project](https://www.youtube.com/shorts/8CfdGsV_8pA)
 
