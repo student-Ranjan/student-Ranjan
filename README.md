@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on [My Project](https://www.youtube.com/shorts/8CfdGsV_8pA)
+- 👯 I’m looking to collaborate on [My Project](https://www.youtube.com/shorts/8CfdGsV_8pA),(https://too-good-co-eta.vercel.app/)
 
 - 💬 Ask me about **My Project**
 
